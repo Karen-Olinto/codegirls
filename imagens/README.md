@@ -1,1 +1,1 @@
-#Segue a imagem do desafio 01 nomeada como [desafio01.jpeg](imagens/deafio.jpeg)
+#Segue a imagem do desafio 01 nomeada como [desafio01.jpg](imagens/desafio.jpg)
